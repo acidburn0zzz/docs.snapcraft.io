@@ -1,6 +1,6 @@
 # App dependencies
 talisker[gunicorn]==0.14.3
-Flask==1.0.3
+Flask==2.2.5
 canonicalwebteam.discourse-docs==0.4.0
 canonicalwebteam.http==1.0.1
 canonicalwebteam.yaml_responses[flask]==1.1.1
